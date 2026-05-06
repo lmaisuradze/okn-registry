@@ -6,8 +6,6 @@ description: The CFDE REVEAL Knowledge Graph is a statistically inferred genomic
 stats: https://frink.renci.org/kg-stats/digcfdekg
 homepage: https://cfdeknowledge.org/
 funding: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2535091
-sparql: https://frink.apps.renci.org/digcfdekg/sparql
-tpf: https://frink.apps.renci.org/ldf/digcfdekg
 frink-options:
   lakefs-repo: digcfdekg
   documentation-path: digcfdekg
